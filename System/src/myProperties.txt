@@ -1,0 +1,16 @@
+Hardware Overview:
+
+  Model Name:	MacBook Pro
+  Model Identifier:	MacBookPro15,4
+  Processor Name:	Quad-Core Intel Core i5
+  Processor Speed:	1.4 GHz
+  Number of Processors:	1
+  Total Number of Cores:	4
+  L2 Cache (per Core):	256 KB
+  L3 Cache:	6 MB
+  Hyper-Threading Technology:	Enabled
+  Memory:	16 GB
+  Boot ROM Version:	1037.120.87.0.0 (iBridge: 17.16.15290.0.0,0)
+  Serial Number (system):	FVFZQ391L414
+  Hardware UUID:	68EFA9A2-5CEA-54CD-B7F5-F170AE7B23C6
+  Activation Lock Status:	Enabled
